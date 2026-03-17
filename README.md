@@ -2,12 +2,14 @@
 
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/jesus-israel-hernandez-reyes-0532032b7/" target="_blank" rel="noopener noreferrer">Jesus Hernandez</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
 
-- 🎓 I'm a Computer Engineering undergrad  
-- 💻 I’m currently working at [Epsilon](https://www.epsilon.com/us) 
-- ⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love photography, programming, data science and books 
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://upload.wikimedia.org/wikipedia/commons/d/d5/Hello_To_You.gif' width='50"'></a></h2>
+
+
+- 🎓 I’m a Mechatronic Engineer
+- 💻 I’m currently learning Python,SQL and ...
+- 👯 I’m open to new projects ideas and collaborations.
+- ⚡ I love videogames, programming, data science and learn.
 
 
 #### Languages and Tools 
